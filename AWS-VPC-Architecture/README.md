@@ -1,5 +1,5 @@
 
-## 🏗️ Architecture Diagram
+## Architecture Diagram
 
 This diagram represents a VPC with public and private subnets, Internet Gateway, and NAT Gateway for secure communication.
 
